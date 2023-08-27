@@ -1,0 +1,1 @@
+String ePointProduct()=>'QSOFT/product.json';
